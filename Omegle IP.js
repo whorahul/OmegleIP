@@ -1,4 +1,3 @@
-/* eslint-disable no-redeclare */
 // ==UserScript==
 // @name         Omegle IP
 // @name:de      Omegle IP
